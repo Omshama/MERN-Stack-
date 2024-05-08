@@ -1,1 +1,38 @@
+// The Images in this have been downloaded from zerodha website itself
+<div>
+    <img width="150" src="zerodha6662.jpg" ></img>
+    <span>
+        Sign Up
+    </span>
+    <span>
+        About
+    </span>
+    <span>
+        Products
+    </span>
+    <span>
+        Pricing
+    </span>
+    <span>
+        Support
+    </span>
+</div>
+<br></br>
 
+<center>
+    <img width="900" src="landing.png"></img>
+</center>
+<center
+<h1 >Invest in Everything</h1>
+</center>
+<center
+<h3>
+    Online platform to invest in stocks, derivatives, mutual funds, and more
+</h3>
+</center>
+<center>
+<button>
+    Sign Up
+</button>
+<br></br>
+</center>
